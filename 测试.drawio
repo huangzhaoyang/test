@@ -36,11 +36,27 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="qxXfZageokRna1WLJAQo-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pjukJ60DeFtwRpBeH5sG-5" target="qxXfZageokRna1WLJAQo-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pjukJ60DeFtwRpBeH5sG-5" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pjukJ60DeFtwRpBeH5sG-9" value="结束" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="800" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qxXfZageokRna1WLJAQo-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="pjukJ60DeFtwRpBeH5sG-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="850" as="targetPoint" />
+            <mxPoint x="360" y="690" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="311" y="690" />
+              <mxPoint x="311" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qxXfZageokRna1WLJAQo-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
